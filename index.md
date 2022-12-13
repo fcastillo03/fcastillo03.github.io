@@ -1,9 +1,3 @@
-//Put name and other info
-
-#include <iostream>
-#include <string>
-
-int man (int argc, char const *argv[]) {
 
 # Hello World
 
@@ -25,6 +19,3 @@ My GitHub page is https://github.com/fcastillo03/fcastillo03.github.io.git
     * Lab 4
 
     Lab 4, Part 1 was my final lab that I also enjoyed working on. It introduced how to start using subtraction adding different values together. I got to learn how to successfully format and use different integers to create new sums. These new sums would then be used to cout to learn how to create complex print statements.
-
-    return 0;
-}
